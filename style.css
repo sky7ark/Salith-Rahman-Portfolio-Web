@@ -345,6 +345,10 @@ section {
   justify-content: space-around;
 }
 
+.project-title{
+  font-size: 20px;
+}
+
 article {
   display: flex;
   width: 10rem;
